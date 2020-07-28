@@ -1,0 +1,20 @@
+version: '3.3'
+
+services:
+  minio:
+    image: "minio/minio"
+    environment:
+      - TZ=Asia/Shanghai
+      - MINIO_ACCESS_KEY=myusername
+      - MINIO_SECRET_KEY=password@2020
+    command: server /data
+    ports:
+      - "9000:9000"
+    expose:
+      - 9000 
+    restart: always
+    volumes:
+      - "./data:/data"
+      - "./config:/root/.minio"
+      - /etc/localtime:/etc/localtime:ro
+    container_name: minio

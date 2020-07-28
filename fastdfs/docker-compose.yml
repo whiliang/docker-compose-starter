@@ -1,0 +1,24 @@
+version: '3.3'
+
+services:
+  tracker:
+    image: fastdfs:latest
+    command: sh tracker.sh 
+    restart: always
+    network_mode: "host"
+    volumes:
+      - /etc/timezone:/etc/timezone:ro
+    container_name: tracker
+  storage:
+    image: fastdfs:latest
+    command: sh storage.sh
+    environment:
+      - TRACKER_IP=192.168.1.100:22122
+      - GROUP_NAME=groupName
+    restart: always
+    network_mode: "host"
+    volumes:
+      - /data/fastdfs:/data/fast_data/data
+      - /etc/localtime:/etc/localtime:ro
+      - /etc/timezone:/etc/timezone:ro
+    container_name: storage

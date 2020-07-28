@@ -1,0 +1,15 @@
+version: '3.3'
+
+services:
+  nginx:
+    image: nginx:latest
+    environment:
+      - TZ=Asia/Shanghai
+    restart: always
+    network_mode: "host"
+    volumes:
+      - ./html:/usr/share/nginx/html
+      - ./nginx.conf:/etc/nginx/nginx.conf:ro
+      - ./conf.d:/etc/nginx/conf.d
+      - ./logs:/tmp
+    container_name: nginx-project-proxy
