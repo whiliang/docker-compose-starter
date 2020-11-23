@@ -1,0 +1,410 @@
+2020-08-11 08:37:52,646 INFO [long-pulling] client count 0
+
+2020-08-11 08:38:02,606 INFO groupCount = 6, subscriberClientCount = 0, subscriberCount = 0
+
+2020-08-11 08:38:02,611 INFO toNotifyTaskSize = 0
+
+2020-08-11 08:38:02,654 INFO [long-pulling] client count 0
+
+2020-08-11 08:38:12,606 INFO groupCount = 6, subscriberClientCount = 0, subscriberCount = 0
+
+2020-08-11 08:38:12,611 INFO toNotifyTaskSize = 0
+
+2020-08-11 08:38:12,655 INFO [long-pulling] client count 0
+
+2020-08-11 08:38:22,607 INFO groupCount = 6, subscriberClientCount = 0, subscriberCount = 0
+
+2020-08-11 08:38:22,611 INFO toNotifyTaskSize = 0
+
+2020-08-11 08:38:22,655 INFO [long-pulling] client count 0
+
+2020-08-11 08:38:32,607 INFO groupCount = 6, subscriberClientCount = 0, subscriberCount = 0
+
+2020-08-11 08:38:32,612 INFO toNotifyTaskSize = 0
+
+2020-08-11 08:38:32,655 INFO [long-pulling] client count 0
+
+2020-08-11 08:38:42,608 INFO groupCount = 6, subscriberClientCount = 0, subscriberCount = 0
+
+2020-08-11 08:38:42,613 INFO toNotifyTaskSize = 0
+
+2020-08-11 08:38:42,656 INFO [long-pulling] client count 0
+
+2020-08-11 08:38:52,609 INFO groupCount = 6, subscriberClientCount = 0, subscriberCount = 0
+
+2020-08-11 08:38:52,614 INFO toNotifyTaskSize = 0
+
+2020-08-11 08:38:52,657 INFO [long-pulling] client count 0
+
+2020-08-11 08:39:02,610 INFO groupCount = 6, subscriberClientCount = 0, subscriberCount = 0
+
+2020-08-11 08:39:02,615 INFO toNotifyTaskSize = 0
+
+2020-08-11 08:39:02,657 INFO [long-pulling] client count 0
+
+2020-08-11 08:39:12,611 INFO groupCount = 6, subscriberClientCount = 0, subscriberCount = 0
+
+2020-08-11 08:39:12,616 INFO toNotifyTaskSize = 0
+
+2020-08-11 08:39:12,658 INFO [long-pulling] client count 0
+
+2020-08-11 08:39:22,612 INFO groupCount = 6, subscriberClientCount = 0, subscriberCount = 0
+
+2020-08-11 08:39:22,616 INFO toNotifyTaskSize = 0
+
+2020-08-11 08:39:22,659 INFO [long-pulling] client count 0
+
+2020-08-11 08:39:32,612 INFO groupCount = 6, subscriberClientCount = 0, subscriberCount = 0
+
+2020-08-11 08:39:32,617 INFO toNotifyTaskSize = 0
+
+2020-08-11 08:39:32,659 INFO [long-pulling] client count 0
+
+2020-08-11 08:39:42,613 INFO groupCount = 6, subscriberClientCount = 0, subscriberCount = 0
+
+2020-08-11 08:39:42,617 INFO toNotifyTaskSize = 0
+
+2020-08-11 08:39:42,660 INFO [long-pulling] client count 0
+
+2020-08-11 08:39:52,614 INFO groupCount = 6, subscriberClientCount = 0, subscriberCount = 0
+
+2020-08-11 08:39:52,618 INFO toNotifyTaskSize = 0
+
+2020-08-11 08:39:52,661 INFO [long-pulling] client count 0
+
+2020-08-11 08:40:02,615 INFO groupCount = 6, subscriberClientCount = 0, subscriberCount = 0
+
+2020-08-11 08:40:02,619 INFO toNotifyTaskSize = 0
+
+2020-08-11 08:40:02,662 INFO [long-pulling] client count 0
+
+2020-08-11 08:40:12,616 INFO groupCount = 6, subscriberClientCount = 0, subscriberCount = 0
+
+2020-08-11 08:40:12,620 INFO toNotifyTaskSize = 0
+
+2020-08-11 08:40:12,663 INFO [long-pulling] client count 0
+
+2020-08-11 08:40:22,616 INFO groupCount = 6, subscriberClientCount = 0, subscriberCount = 0
+
+2020-08-11 08:40:22,620 INFO toNotifyTaskSize = 0
+
+2020-08-11 08:40:22,663 INFO [long-pulling] client count 0
+
+2020-08-11 08:40:32,617 INFO groupCount = 6, subscriberClientCount = 0, subscriberCount = 0
+
+2020-08-11 08:40:32,621 INFO toNotifyTaskSize = 0
+
+2020-08-11 08:40:32,664 INFO [long-pulling] client count 0
+
+2020-08-11 08:40:42,618 INFO groupCount = 6, subscriberClientCount = 0, subscriberCount = 0
+
+2020-08-11 08:40:42,622 INFO toNotifyTaskSize = 0
+
+2020-08-11 08:40:42,665 INFO [long-pulling] client count 0
+
+2020-08-11 08:40:52,619 INFO groupCount = 6, subscriberClientCount = 0, subscriberCount = 0
+
+2020-08-11 08:40:52,622 INFO toNotifyTaskSize = 0
+
+2020-08-11 08:40:52,666 INFO [long-pulling] client count 0
+
+2020-08-11 08:41:02,620 INFO groupCount = 6, subscriberClientCount = 0, subscriberCount = 0
+
+2020-08-11 08:41:02,623 INFO toNotifyTaskSize = 0
+
+2020-08-11 08:41:02,667 INFO [long-pulling] client count 0
+
+2020-08-11 08:41:12,621 INFO groupCount = 6, subscriberClientCount = 0, subscriberCount = 0
+
+2020-08-11 08:41:12,624 INFO toNotifyTaskSize = 0
+
+2020-08-11 08:41:12,667 INFO [long-pulling] client count 0
+
+2020-08-11 08:41:22,621 INFO groupCount = 6, subscriberClientCount = 0, subscriberCount = 0
+
+2020-08-11 08:41:22,624 INFO toNotifyTaskSize = 0
+
+2020-08-11 08:41:22,668 INFO [long-pulling] client count 0
+
+2020-08-11 08:41:32,622 INFO groupCount = 6, subscriberClientCount = 0, subscriberCount = 0
+
+2020-08-11 08:41:32,625 INFO toNotifyTaskSize = 0
+
+2020-08-11 08:41:32,669 INFO [long-pulling] client count 0
+
+2020-08-11 08:41:42,622 INFO groupCount = 6, subscriberClientCount = 0, subscriberCount = 0
+
+2020-08-11 08:41:42,625 INFO toNotifyTaskSize = 0
+
+2020-08-11 08:41:42,669 INFO [long-pulling] client count 0
+
+2020-08-11 08:41:52,623 INFO groupCount = 6, subscriberClientCount = 0, subscriberCount = 0
+
+2020-08-11 08:41:52,625 INFO toNotifyTaskSize = 0
+
+2020-08-11 08:41:52,669 INFO [long-pulling] client count 0
+
+2020-08-11 08:42:02,624 INFO groupCount = 6, subscriberClientCount = 0, subscriberCount = 0
+
+2020-08-11 08:42:02,626 INFO toNotifyTaskSize = 0
+
+2020-08-11 08:42:02,670 INFO [long-pulling] client count 0
+
+2020-08-11 08:42:12,625 INFO groupCount = 6, subscriberClientCount = 0, subscriberCount = 0
+
+2020-08-11 08:42:12,627 INFO toNotifyTaskSize = 0
+
+2020-08-11 08:42:12,671 INFO [long-pulling] client count 0
+
+2020-08-11 08:42:22,626 INFO groupCount = 6, subscriberClientCount = 0, subscriberCount = 0
+
+2020-08-11 08:42:22,628 INFO toNotifyTaskSize = 0
+
+2020-08-11 08:42:22,672 INFO [long-pulling] client count 0
+
+2020-08-11 08:42:32,627 INFO groupCount = 6, subscriberClientCount = 0, subscriberCount = 0
+
+2020-08-11 08:42:32,628 INFO toNotifyTaskSize = 0
+
+2020-08-11 08:42:32,673 INFO [long-pulling] client count 0
+
+2020-08-11 08:42:42,628 INFO groupCount = 6, subscriberClientCount = 0, subscriberCount = 0
+
+2020-08-11 08:42:42,629 INFO toNotifyTaskSize = 0
+
+2020-08-11 08:42:42,673 INFO [long-pulling] client count 0
+
+2020-08-11 08:42:52,629 INFO groupCount = 6, subscriberClientCount = 0, subscriberCount = 0
+
+2020-08-11 08:42:52,629 INFO toNotifyTaskSize = 0
+
+2020-08-11 08:42:52,674 INFO [long-pulling] client count 0
+
+2020-08-11 08:43:02,629 INFO groupCount = 6, subscriberClientCount = 0, subscriberCount = 0
+
+2020-08-11 08:43:02,629 INFO toNotifyTaskSize = 0
+
+2020-08-11 08:43:02,675 INFO [long-pulling] client count 0
+
+2020-08-11 08:43:12,630 INFO toNotifyTaskSize = 0
+
+2020-08-11 08:43:12,630 INFO groupCount = 6, subscriberClientCount = 0, subscriberCount = 0
+
+2020-08-11 08:43:12,675 INFO [long-pulling] client count 0
+
+2020-08-11 08:43:22,631 INFO toNotifyTaskSize = 0
+
+2020-08-11 08:43:22,631 INFO groupCount = 6, subscriberClientCount = 0, subscriberCount = 0
+
+2020-08-11 08:43:22,676 INFO [long-pulling] client count 0
+
+2020-08-11 08:43:32,631 INFO toNotifyTaskSize = 0
+
+2020-08-11 08:43:32,631 INFO groupCount = 6, subscriberClientCount = 0, subscriberCount = 0
+
+2020-08-11 08:43:32,676 INFO [long-pulling] client count 0
+
+2020-08-11 08:43:42,632 INFO toNotifyTaskSize = 0
+
+2020-08-11 08:43:42,634 INFO groupCount = 6, subscriberClientCount = 0, subscriberCount = 0
+
+2020-08-11 08:43:42,677 INFO [long-pulling] client count 0
+
+2020-08-11 08:43:52,633 INFO toNotifyTaskSize = 0
+
+2020-08-11 08:43:52,634 INFO groupCount = 6, subscriberClientCount = 0, subscriberCount = 0
+
+2020-08-11 08:43:52,678 INFO [long-pulling] client count 0
+
+2020-08-11 08:44:02,633 INFO toNotifyTaskSize = 0
+
+2020-08-11 08:44:02,635 INFO groupCount = 6, subscriberClientCount = 0, subscriberCount = 0
+
+2020-08-11 08:44:02,678 INFO [long-pulling] client count 0
+
+2020-08-11 08:44:12,634 INFO toNotifyTaskSize = 0
+
+2020-08-11 08:44:12,635 INFO groupCount = 6, subscriberClientCount = 0, subscriberCount = 0
+
+2020-08-11 08:44:12,679 INFO [long-pulling] client count 0
+
+2020-08-11 08:44:22,634 INFO toNotifyTaskSize = 0
+
+2020-08-11 08:44:22,636 INFO groupCount = 6, subscriberClientCount = 0, subscriberCount = 0
+
+2020-08-11 08:44:22,679 INFO [long-pulling] client count 0
+
+2020-08-11 08:44:32,635 INFO toNotifyTaskSize = 0
+
+2020-08-11 08:44:32,636 INFO groupCount = 6, subscriberClientCount = 0, subscriberCount = 0
+
+2020-08-11 08:44:32,680 INFO [long-pulling] client count 0
+
+2020-08-11 08:44:42,636 INFO toNotifyTaskSize = 0
+
+2020-08-11 08:44:42,637 INFO groupCount = 6, subscriberClientCount = 0, subscriberCount = 0
+
+2020-08-11 08:44:42,681 INFO [long-pulling] client count 0
+
+2020-08-11 08:44:52,636 INFO toNotifyTaskSize = 0
+
+2020-08-11 08:44:52,637 INFO groupCount = 6, subscriberClientCount = 0, subscriberCount = 0
+
+2020-08-11 08:44:52,681 INFO [long-pulling] client count 0
+
+2020-08-11 08:45:02,637 INFO toNotifyTaskSize = 0
+
+2020-08-11 08:45:02,638 INFO groupCount = 6, subscriberClientCount = 0, subscriberCount = 0
+
+2020-08-11 08:45:02,682 INFO [long-pulling] client count 0
+
+2020-08-11 08:45:12,638 INFO toNotifyTaskSize = 0
+
+2020-08-11 08:45:12,639 INFO groupCount = 6, subscriberClientCount = 0, subscriberCount = 0
+
+2020-08-11 08:45:12,683 INFO [long-pulling] client count 0
+
+2020-08-11 08:45:22,639 INFO toNotifyTaskSize = 0
+
+2020-08-11 08:45:22,639 INFO groupCount = 6, subscriberClientCount = 0, subscriberCount = 0
+
+2020-08-11 08:45:22,685 INFO [long-pulling] client count 0
+
+2020-08-11 08:45:32,640 INFO toNotifyTaskSize = 0
+
+2020-08-11 08:45:32,640 INFO groupCount = 6, subscriberClientCount = 0, subscriberCount = 0
+
+2020-08-11 08:45:32,686 INFO [long-pulling] client count 0
+
+2020-08-11 08:45:42,641 INFO toNotifyTaskSize = 0
+
+2020-08-11 08:45:42,642 INFO groupCount = 6, subscriberClientCount = 0, subscriberCount = 0
+
+2020-08-11 08:45:42,687 INFO [long-pulling] client count 0
+
+2020-08-11 08:45:52,642 INFO toNotifyTaskSize = 0
+
+2020-08-11 08:45:52,643 INFO groupCount = 6, subscriberClientCount = 0, subscriberCount = 0
+
+2020-08-11 08:45:52,688 INFO [long-pulling] client count 0
+
+2020-08-11 08:46:02,643 INFO groupCount = 6, subscriberClientCount = 0, subscriberCount = 0
+
+2020-08-11 08:46:02,643 INFO toNotifyTaskSize = 0
+
+2020-08-11 08:46:02,688 INFO [long-pulling] client count 0
+
+2020-08-11 08:46:12,643 INFO toNotifyTaskSize = 0
+
+2020-08-11 08:46:12,643 INFO groupCount = 6, subscriberClientCount = 0, subscriberCount = 0
+
+2020-08-11 08:46:12,689 INFO [long-pulling] client count 0
+
+2020-08-11 08:46:22,644 INFO groupCount = 6, subscriberClientCount = 0, subscriberCount = 0
+
+2020-08-11 08:46:22,644 INFO toNotifyTaskSize = 0
+
+2020-08-11 08:46:22,689 INFO [long-pulling] client count 0
+
+2020-08-11 08:46:32,644 INFO toNotifyTaskSize = 0
+
+2020-08-11 08:46:32,644 INFO groupCount = 6, subscriberClientCount = 0, subscriberCount = 0
+
+2020-08-11 08:46:32,689 INFO [long-pulling] client count 0
+
+2020-08-11 08:46:42,644 INFO toNotifyTaskSize = 0
+
+2020-08-11 08:46:42,644 INFO groupCount = 6, subscriberClientCount = 0, subscriberCount = 0
+
+2020-08-11 08:46:42,689 INFO [long-pulling] client count 0
+
+2020-08-11 08:46:52,645 INFO groupCount = 6, subscriberClientCount = 0, subscriberCount = 0
+
+2020-08-11 08:46:52,645 INFO toNotifyTaskSize = 0
+
+2020-08-11 08:46:52,690 INFO [long-pulling] client count 0
+
+2020-08-11 08:47:02,645 INFO toNotifyTaskSize = 0
+
+2020-08-11 08:47:02,645 INFO groupCount = 6, subscriberClientCount = 0, subscriberCount = 0
+
+2020-08-11 08:47:02,690 INFO [long-pulling] client count 0
+
+2020-08-11 08:47:12,646 INFO toNotifyTaskSize = 0
+
+2020-08-11 08:47:12,646 INFO groupCount = 6, subscriberClientCount = 0, subscriberCount = 0
+
+2020-08-11 08:47:12,691 INFO [long-pulling] client count 0
+
+2020-08-11 08:47:22,647 INFO groupCount = 6, subscriberClientCount = 0, subscriberCount = 0
+
+2020-08-11 08:47:22,647 INFO toNotifyTaskSize = 0
+
+2020-08-11 08:47:22,691 INFO [long-pulling] client count 0
+
+2020-08-11 08:47:32,647 INFO groupCount = 6, subscriberClientCount = 0, subscriberCount = 0
+
+2020-08-11 08:47:32,647 INFO toNotifyTaskSize = 0
+
+2020-08-11 08:47:32,691 INFO [long-pulling] client count 0
+
+2020-08-11 08:47:42,648 INFO groupCount = 6, subscriberClientCount = 0, subscriberCount = 0
+
+2020-08-11 08:47:42,648 INFO toNotifyTaskSize = 0
+
+2020-08-11 08:47:42,692 INFO [long-pulling] client count 0
+
+2020-08-11 08:47:52,648 INFO toNotifyTaskSize = 0
+
+2020-08-11 08:47:52,648 INFO groupCount = 6, subscriberClientCount = 0, subscriberCount = 0
+
+2020-08-11 08:47:52,692 INFO [long-pulling] client count 0
+
+2020-08-11 08:48:02,649 INFO groupCount = 6, subscriberClientCount = 0, subscriberCount = 0
+
+2020-08-11 08:48:02,649 INFO toNotifyTaskSize = 0
+
+2020-08-11 08:48:02,692 INFO [long-pulling] client count 0
+
+2020-08-11 08:48:12,649 INFO groupCount = 6, subscriberClientCount = 0, subscriberCount = 0
+
+2020-08-11 08:48:12,649 INFO toNotifyTaskSize = 0
+
+2020-08-11 08:48:12,693 INFO [long-pulling] client count 0
+
+2020-08-11 08:48:22,649 INFO toNotifyTaskSize = 0
+
+2020-08-11 08:48:22,649 INFO groupCount = 6, subscriberClientCount = 0, subscriberCount = 0
+
+2020-08-11 08:48:22,693 INFO [long-pulling] client count 0
+
+2020-08-11 08:48:32,650 INFO toNotifyTaskSize = 0
+
+2020-08-11 08:48:32,650 INFO groupCount = 6, subscriberClientCount = 0, subscriberCount = 0
+
+2020-08-11 08:48:32,694 INFO [long-pulling] client count 0
+
+2020-08-11 08:48:42,650 INFO groupCount = 6, subscriberClientCount = 0, subscriberCount = 0
+
+2020-08-11 08:48:42,650 INFO toNotifyTaskSize = 0
+
+2020-08-11 08:48:42,694 INFO [long-pulling] client count 0
+
+2020-08-11 08:48:52,651 INFO groupCount = 6, subscriberClientCount = 0, subscriberCount = 0
+
+2020-08-11 08:48:52,651 INFO toNotifyTaskSize = 0
+
+2020-08-11 08:48:52,694 INFO [long-pulling] client count 0
+
+2020-08-11 08:49:02,651 INFO toNotifyTaskSize = 0
+
+2020-08-11 08:49:02,651 INFO groupCount = 6, subscriberClientCount = 0, subscriberCount = 0
+
+2020-08-11 08:49:02,695 INFO [long-pulling] client count 0
+
+2020-08-11 08:49:12,651 INFO toNotifyTaskSize = 0
+
+2020-08-11 08:49:12,651 INFO groupCount = 6, subscriberClientCount = 0, subscriberCount = 0
+
+2020-08-11 08:49:12,695 INFO [long-pulling] client count 0
+

@@ -1,0 +1,19 @@
+version: '3.3'
+
+services:
+  minio:
+    image: "fauria/vsftpd"
+    environment:
+      - TZ=Asia/Shanghai
+      - FTP_USER=ftp_user
+      - FTP_PASS=password@2020
+    ports:
+      - "8021:21"
+    expose:
+      - 8021 
+    restart: always
+    privileged: true
+    volumes:
+      - "./data:/home/vsftpd"
+      - /etc/localtime:/etc/localtime:ro
+    container_name: vsftpd
