@@ -2,7 +2,7 @@ version: '3.3'
 
 services:
   minio:
-    image: "emqx/emqx"
+    image: "emqx/emqx:4.2.3"
     environment:
       - TZ=Asia/Shanghai
     ports: 
