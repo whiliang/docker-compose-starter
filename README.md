@@ -1,2 +1,2 @@
 # docker-compose-starter
-rapid deployment services using dokcer compose
+rapid deployment services using docker compose
