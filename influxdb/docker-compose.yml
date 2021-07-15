@@ -1,0 +1,20 @@
+version: '3.7'
+
+services:
+  influxdb:
+    image: influxdb
+    container_name: influxdb
+    restart: always
+    environment:
+      - PRE_CREATE_DB=telegraf
+      - ADMIN_USER="telegraf"
+      - INFLUXDB_INIT_PWD="telegraf123"
+      - GOGC=10
+      - INFLUXDB_DATA_INDEX_VERSION=tsi1
+    ports:
+      - "8186:8086"
+    expose:
+      - "8090"
+      - "8099"
+    volumes:
+      - "./influxdb/db:/var/lib/influxdb"

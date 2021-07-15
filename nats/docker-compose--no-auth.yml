@@ -4,7 +4,6 @@ services:
   nats:
     image: "nats"
     container_name: "nats_1"
-    entrypoint: /nats-server --user user --pass pass
     ports:
       - "4222:4222"
       - "8222:8222"
