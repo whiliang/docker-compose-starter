@@ -1,0 +1,55 @@
+version: '3'
+services:
+  keycloak-mysql:
+    image: mysql:8
+    restart: always
+    container_name: keycloak-mysql
+    environment:
+      - TZ=Asia/Shanghai
+      - MYSQL_ROOT_PASSWORD=root
+      #keycloak 使用
+      - MYSQL_DATABASE=keycloak
+      - MYSQL_USER=keycloak
+      - MYSQL_PASSWORD=123456
+    volumes:
+      - ./data:/var/lib/mysql
+    ports:
+      - '3308:3306'
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "1m"
+    networks:
+      - traefik
+  # keycloak
+  keycloak:
+    image: jboss/keycloak:15.0.2
+    volumes:
+      - /etc/timezone:/etc/timezone
+      - /etc/localtime:/etc/localtime
+    environment:
+      # 初始化密码
+      - KEYCLOAK_USER=admin
+      - KEYCLOAK_PASSWORD=admin
+      # DB
+      - DB_VENDOR=mysql
+      - DB_ADDR=keycloak-mysql
+      - DB_PORT=3306
+      - DB_DATABASE=keycloak
+      - DB_USER=keycloak
+      - DB_PASSWORD=123456
+      # 开启反向代理
+      - PROXY_ADDRESS_FORWARDING=true
+    depends_on:
+      - keycloak-mysql
+    ports:
+      - '8080:8080'
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "1m"
+    networks:
+      - traefik
+networks:
+  traefik:
+    external: true
