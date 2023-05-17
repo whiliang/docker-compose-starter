@@ -1,0 +1,20 @@
+version: '3'
+
+services:
+  tdengine:
+    image: "tdengine:3.0.4.0"
+    container_name: "tdengine-server"
+    hostname: "hostname"
+    environment:
+      - TAOS_SML_CHILD_TABLE_NAME=tname
+      - TAOS_ADAPTER_SML_AUTO_CREATE_DB=true
+    ports:
+      - 6030:6030
+      - 6041:6041
+    volumes:
+      - /etc/localtime:/etc/localtime:ro
+      - ./data:/var/lib/taos
+      - ./log:/var/log/taos
+    restart: always
+
+
